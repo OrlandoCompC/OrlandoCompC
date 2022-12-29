@@ -6,5 +6,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Keylogger project](https://github.com/OrlandoCompC/KeyLogger)
-- [User/Password Database](https://github.com/OrlandoCompC/Password-Database)
+- <b>Keylogger Project</b>
+    - [Keylogger](https://github.com/OrlandoCompC/KeyLogger)
+  
+- <b>Password checker</b>
+  - [User/Password Database](https://github.com/OrlandoCompC/Password-Database)
