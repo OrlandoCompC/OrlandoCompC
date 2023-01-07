@@ -7,7 +7,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Keylogger second Project</b>
+- <b>Keylogger Second Project</b>
     - [Keylogger-Advanced](https://github.com/OrlandoCompC/Keylogger-Advanced)
 
 
