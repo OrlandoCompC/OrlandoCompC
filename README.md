@@ -4,6 +4,8 @@
 
 📫 I may be reached at companioniorlando@gmail.com.
 
+[My portfolio](https://orlandocompc.github.io/)
+
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
