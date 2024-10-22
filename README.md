@@ -23,6 +23,8 @@
 
 <h2> Pentesting Journey </h2>
 
-- <b> BSCP labs </b>
+- <b> BSCP Labs </b>
 [BSCP-Portswigger](https://github.com/OrlandoCompC/Portswigger-Labs)
-  
+
+- <b> Hacking Labs </b>
+  [HTB boxes](https://github.com/OrlandoCompC/HACKING_BOXES)
