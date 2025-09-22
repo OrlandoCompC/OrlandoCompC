@@ -15,6 +15,4 @@
   [HTB boxes](https://github.com/OrlandoCompC/HACKING_BOXES)
 
 <h2> Research </h2>
-- <b> CVEs </b>
-
 [CVE details](https://github.com/Mmo-kali/CVE)
